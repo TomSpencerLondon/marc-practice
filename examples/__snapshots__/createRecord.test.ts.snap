@@ -3,7 +3,12 @@
 exports[`createRecord creates a record 1`] = `
 MarcRecord {
   "_validationOptions": Object {},
-  "fields": Array [],
-  "leader": "",
+  "fields": Array [
+    Object {
+      "tag": "001",
+      "value": "007045872",
+    },
+  ],
+  "leader": "00000cam^a22001817i^4500",
 }
 `;
