@@ -1,0 +1,8 @@
+{
+  "name": "marc-practice",
+  "version": "1.0.0",
+  "description": "application to practice marc file creation",
+  "main": "index.js",
+  "author": "thomas.spencer@codurance.com",
+  "license": "MIT"
+}
