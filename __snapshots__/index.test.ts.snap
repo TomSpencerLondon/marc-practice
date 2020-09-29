@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`file returns as a record 1`] = `
+MarcRecord {
+  "_validationOptions": Object {},
+  "fields": Array [],
+  "leader": "",
+}
+`;
