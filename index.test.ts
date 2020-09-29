@@ -1,4 +1,4 @@
-import demo from "./demo";
+import demo from "./file";
 
 describe("happy path", () => {
   it("is sane", () => {
