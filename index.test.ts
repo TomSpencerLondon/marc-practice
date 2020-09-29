@@ -1,11 +1,9 @@
 import demo from "./file";
 
-describe("happy path", () => {
-  it("is sane", () => {
-    expect(true).toBe(true);
-  });
-
-  it("is able to import another file", () => {
-    expect(demo()).toBe(true);
+describe("file", () => {
+  it("returns as a record", () => {
+    const result = demo();
+    expect(result).toMatchSnapshot();
   })
 })
+

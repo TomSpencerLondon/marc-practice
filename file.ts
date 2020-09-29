@@ -3,8 +3,7 @@ const record = new MarcRecord();
 
 const demo = () => {
   const record = new MarcRecord();
-  console.log("this is a record: ", record);
-  return true;
+  return record;
 }
 
 export default demo;
