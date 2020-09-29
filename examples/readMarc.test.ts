@@ -1,6 +1,6 @@
-import serializer from './serializer';
+import serializer from './readMarc';
 
-describe("serializer", () => {
+describe("readMarc", () => {
   it("turns our test Marc file into a JS Marc object", async () => {
     const result = await serializer();
     expect(result).toMatchSnapshot();

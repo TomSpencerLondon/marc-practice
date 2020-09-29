@@ -16,8 +16,8 @@
   },
   "scripts": {
     "test": "jest",
-    "demo": "ts-node demo.ts",
-    "read": "ts-node read-demo.ts"
+    "demo": "ts-node examples/demoCreate.ts",
+    "read": "ts-node examples/demoRead.ts"
   },
   "license": "MIT",
   "dependencies": {

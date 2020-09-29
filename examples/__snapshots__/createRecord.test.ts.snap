@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`file returns as a record 1`] = `
+exports[`createRecord creates a record 1`] = `
 MarcRecord {
   "_validationOptions": Object {},
   "fields": Array [],
