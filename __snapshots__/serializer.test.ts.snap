@@ -1,0 +1,534 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`serializer turns our test Marc file into a JS Marc object 1`] = `
+MarcRecord {
+  "_validationOptions": Object {},
+  "fields": Array [
+    Object {
+      "tag": "001",
+      "value": "dtnid221",
+    },
+    Object {
+      "tag": "003",
+      "value": "UkLoDT",
+    },
+    Object {
+      "tag": "005",
+      "value": "20200618084718.0",
+    },
+    Object {
+      "tag": "006",
+      "value": "m     o  i        ",
+    },
+    Object {
+      "tag": "007",
+      "value": "cr una---unuuu",
+    },
+    Object {
+      "ind1": " ",
+      "ind2": " ",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "streaming video (150 min.)",
+        },
+      ],
+      "tag": "300",
+    },
+    Object {
+      "tag": "008",
+      "value": "111101s2011    xx      o  i           ll",
+    },
+    Object {
+      "ind1": " ",
+      "ind2": " ",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "UkLoDT",
+        },
+        Object {
+          "code": "b",
+          "value": "eng",
+        },
+        Object {
+          "code": "e",
+          "value": "rda",
+        },
+        Object {
+          "code": "c",
+          "value": "UkLoDT",
+        },
+      ],
+      "tag": "040",
+    },
+    Object {
+      "ind1": "1",
+      "ind2": " ",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "Shakespeare, William",
+        },
+        Object {
+          "code": "e",
+          "value": "Writer",
+        },
+      ],
+      "tag": "100",
+    },
+    Object {
+      "ind1": " ",
+      "ind2": "0",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "Production",
+        },
+      ],
+      "tag": "899",
+    },
+    Object {
+      "ind1": "0",
+      "ind2": "0",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "Production",
+        },
+        Object {
+          "code": "b",
+          "value": "Macbeth (Production).",
+        },
+        Object {
+          "code": "c",
+          "value": "Digital Theatre in association with Liverpool Everyman Playhouse.",
+        },
+      ],
+      "tag": "245",
+    },
+    Object {
+      "ind1": " ",
+      "ind2": "1",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "Liverpool Everyman Playhouse",
+        },
+        Object {
+          "code": "b",
+          "value": "Digital Theatre.",
+        },
+        Object {
+          "code": "c",
+          "value": "2011",
+        },
+      ],
+      "tag": "264",
+    },
+    Object {
+      "ind1": " ",
+      "ind2": " ",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "two-dimensional moving image",
+        },
+        Object {
+          "code": "2",
+          "value": "rdacontent",
+        },
+      ],
+      "tag": "336",
+    },
+    Object {
+      "ind1": " ",
+      "ind2": " ",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "computer",
+        },
+        Object {
+          "code": "2",
+          "value": "rdamedia",
+        },
+      ],
+      "tag": "337",
+    },
+    Object {
+      "ind1": " ",
+      "ind2": " ",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "online resource",
+        },
+        Object {
+          "code": "2",
+          "value": "rdacarrier",
+        },
+      ],
+      "tag": "338",
+    },
+    Object {
+      "ind1": " ",
+      "ind2": " ",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "Counted among his greatest tragedies, Shakespeare's unsettling combination of warring soldiers and 'weird sisters' is brought to life in this post-apocalyptic reimagining of the Scottish play. This production, directed by Gemma Bodinetz and starring David Morrissey in the title role, was captured by Digital Theatre live at the Everyman Theatre, Liverpool.  ",
+        },
+      ],
+      "tag": "520",
+    },
+    Object {
+      "ind1": " ",
+      "ind2": " ",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "Macbeth (Production).; (DT+ viewed July 4, 2020)",
+        },
+      ],
+      "tag": "588",
+    },
+    Object {
+      "ind1": "0",
+      "ind2": "4",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "Macbeth (Production).",
+        },
+      ],
+      "tag": "630",
+    },
+    Object {
+      "ind1": " ",
+      "ind2": "4",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "Nation & Migration",
+        },
+      ],
+      "tag": "650",
+    },
+    Object {
+      "ind1": " ",
+      "ind2": "4",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "History & Society",
+        },
+      ],
+      "tag": "650",
+    },
+    Object {
+      "ind1": " ",
+      "ind2": "4",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "Identity & Biography",
+        },
+      ],
+      "tag": "650",
+    },
+    Object {
+      "ind1": " ",
+      "ind2": "4",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "Tragedy",
+        },
+      ],
+      "tag": "650",
+    },
+    Object {
+      "ind1": " ",
+      "ind2": "4",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "Renaissance",
+        },
+      ],
+      "tag": "650",
+    },
+    Object {
+      "ind1": "1",
+      "ind2": " ",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "Morrissey, David",
+        },
+        Object {
+          "code": "e",
+          "value": "actor",
+        },
+      ],
+      "tag": "700",
+    },
+    Object {
+      "ind1": "1",
+      "ind2": " ",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "Arends, Mark",
+        },
+        Object {
+          "code": "e",
+          "value": "actor",
+        },
+      ],
+      "tag": "700",
+    },
+    Object {
+      "ind1": "1",
+      "ind2": " ",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "Bradshaw, Ken",
+        },
+        Object {
+          "code": "e",
+          "value": "actor",
+        },
+      ],
+      "tag": "700",
+    },
+    Object {
+      "ind1": "1",
+      "ind2": " ",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "Bremmer, Richard",
+        },
+        Object {
+          "code": "e",
+          "value": "actor",
+        },
+      ],
+      "tag": "700",
+    },
+    Object {
+      "ind1": "1",
+      "ind2": " ",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "Caple, Neil",
+        },
+        Object {
+          "code": "e",
+          "value": "actor",
+        },
+      ],
+      "tag": "700",
+    },
+    Object {
+      "ind1": "1",
+      "ind2": " ",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "Ford, Julia",
+        },
+        Object {
+          "code": "e",
+          "value": "actor",
+        },
+      ],
+      "tag": "700",
+    },
+    Object {
+      "ind1": "1",
+      "ind2": " ",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "Kearney, Gillian",
+        },
+        Object {
+          "code": "e",
+          "value": "actor",
+        },
+      ],
+      "tag": "700",
+    },
+    Object {
+      "ind1": "1",
+      "ind2": " ",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "O'brien, Eileen",
+        },
+        Object {
+          "code": "e",
+          "value": "actor",
+        },
+      ],
+      "tag": "700",
+    },
+    Object {
+      "ind1": "1",
+      "ind2": " ",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "Flynn, Matthew",
+        },
+        Object {
+          "code": "e",
+          "value": "actor",
+        },
+      ],
+      "tag": "700",
+    },
+    Object {
+      "ind1": "1",
+      "ind2": " ",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "Lowe, Syrus",
+        },
+        Object {
+          "code": "e",
+          "value": "actor",
+        },
+      ],
+      "tag": "700",
+    },
+    Object {
+      "ind1": "1",
+      "ind2": " ",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "Mason, Shaun",
+        },
+        Object {
+          "code": "e",
+          "value": "actor",
+        },
+      ],
+      "tag": "700",
+    },
+    Object {
+      "ind1": "1",
+      "ind2": " ",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "Mcmullen, Nathan",
+        },
+        Object {
+          "code": "e",
+          "value": "actor",
+        },
+      ],
+      "tag": "700",
+    },
+    Object {
+      "ind1": "1",
+      "ind2": " ",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "Marshall, Gavin",
+        },
+        Object {
+          "code": "e",
+          "value": "actor",
+        },
+      ],
+      "tag": "700",
+    },
+    Object {
+      "ind1": "1",
+      "ind2": " ",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "Shakespeare, William",
+        },
+        Object {
+          "code": "e",
+          "value": "Writer",
+        },
+      ],
+      "tag": "700",
+    },
+    Object {
+      "ind1": "1",
+      "ind2": " ",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "Bodinetz, Gemma",
+        },
+        Object {
+          "code": "e",
+          "value": "Director",
+        },
+      ],
+      "tag": "700",
+    },
+    Object {
+      "ind1": " ",
+      "ind2": " ",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "Francis O'Connor: Designer;Colin Grenfell: Lighting Designer ;Fergus O'Hare: Sound Designer;Peter Coyte: Composer;Brett Young: Fight Director;Tess Dignan: Voice Coach;Jacquie Davis: Costume Supervisor;Kay Magson CDG: Casting Director;",
+        },
+      ],
+      "tag": "500",
+    },
+    Object {
+      "ind1": "2",
+      "ind2": " ",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "Liverpool Everyman Playhouse",
+        },
+      ],
+      "tag": "710",
+    },
+    Object {
+      "ind1": "4",
+      "ind2": "0",
+      "subfields": Array [
+        Object {
+          "code": "u",
+          "value": "https://www.digitaltheatreplus.com/education/collections/digital-theatre/macbeth",
+        },
+      ],
+      "tag": "856",
+    },
+    Object {
+      "ind1": " ",
+      "ind2": " ",
+      "subfields": Array [
+        Object {
+          "code": "a",
+          "value": "Not available for commercial use, sale, or reproduction.",
+        },
+      ],
+      "tag": "506",
+    },
+  ],
+  "leader": "02364nmm  2200529   4500",
+}
+`;
